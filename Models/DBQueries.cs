@@ -18,7 +18,7 @@ namespace ServiceDesk.Models
         private OleDbDataAdapter da;
         private DataTable dt;
         public DBQueries() {
-            Con = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.16.0;Data Source=D:\\Лабы\\4 курс\\Лера диплом\\ServiceDesk\\ServiceDesk.accdb");
+            Con = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.16.0;Data Source=D:\\Лабы\\4 курс\\диплом\\ServiceDesk\\ServiceDesk.accdb");
             cmd = new OleDbCommand();
             cmd.Connection = Con;
             Con.Open();

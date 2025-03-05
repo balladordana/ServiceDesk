@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ServiceDesk||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\models\\dbqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:models\\dbqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\mainspecialist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\mainspecialist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\maindispetcher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\maindispetcher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\maindispetcher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\maindispetcher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\mainmanager.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\mainmanager.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\mainmanager.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\mainmanager.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\mainspecialist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\mainspecialist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\clients3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\clients3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\clients3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\clients3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\clients2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\clients2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\clients2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\clients2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\brigads3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\brigads3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\brigads3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\brigads3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\brigads2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\brigads2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\brigads2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\brigads2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\brigads.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\brigads.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\site3.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\site3.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\site3.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\site3.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\clients.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\clients.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\site2.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\site2.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\site2.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\site2.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\brigads.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\brigads.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\clients.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\clients.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\views\\maindispetcher.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|solutionrelative:views\\maindispetcher.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475374A7-7DEE-4870-9011-FFFAAA50F923}|ServiceDesk.csproj|d:\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u043B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\servicedesk\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|9ab2347d-948d-4cd2-8dbe-f15f0ef78ed3"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceDesk",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\ServiceDesk.csproj",
+              "RelativeDocumentMoniker": "ServiceDesk.csproj",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\ServiceDesk.csproj",
+              "RelativeToolTip": "ServiceDesk.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T18:07:57.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainSpecialist.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainSpecialist.aspx",
+              "RelativeDocumentMoniker": "Views\\MainSpecialist.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainSpecialist.aspx",
+              "RelativeToolTip": "Views\\MainSpecialist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T22:19:02.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainDispetcher.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainDispetcher.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\MainDispetcher.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainDispetcher.aspx.cs",
+              "RelativeToolTip": "Views\\MainDispetcher.aspx.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAKsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:16:32.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainDispetcher.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainDispetcher.aspx",
+              "RelativeDocumentMoniker": "Views\\MainDispetcher.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainDispetcher.aspx",
+              "RelativeToolTip": "Views\\MainDispetcher.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-12T00:55:03.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainManager.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainManager.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\MainManager.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainManager.aspx.cs",
+              "RelativeToolTip": "Views\\MainManager.aspx.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAiwK4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:15:56.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBQueries.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Models\\DBQueries.cs",
+              "RelativeDocumentMoniker": "Models\\DBQueries.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Models\\DBQueries.cs",
+              "RelativeToolTip": "Models\\DBQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:19:10.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Login.aspx",
+              "RelativeDocumentMoniker": "Views\\Login.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Login.aspx",
+              "RelativeToolTip": "Views\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T22:21:19.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainManager.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainManager.aspx",
+              "RelativeDocumentMoniker": "Views\\MainManager.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainManager.aspx",
+              "RelativeToolTip": "Views\\MainManager.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T22:37:36.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainSpecialist.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainSpecialist.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\MainSpecialist.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainSpecialist.aspx.cs",
+              "RelativeToolTip": "Views\\MainSpecialist.aspx.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAvwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:16:10.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Login.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Login.aspx.cs",
+              "RelativeToolTip": "Views\\Login.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:21:44.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site1.Master",
+              "RelativeDocumentMoniker": "Views\\Site1.Master",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site1.Master",
+              "RelativeToolTip": "Views\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T23:35:09.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site2.Master",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site2.Master",
+              "RelativeDocumentMoniker": "Views\\Site2.Master",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site2.Master",
+              "RelativeToolTip": "Views\\Site2.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T23:23:05.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Site3.Master",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site3.Master",
+              "RelativeDocumentMoniker": "Views\\Site3.Master",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site3.Master",
+              "RelativeToolTip": "Views\\Site3.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T23:35:51.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Site3.Master.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site3.Master.cs",
+              "RelativeDocumentMoniker": "Views\\Site3.Master.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site3.Master.cs",
+              "RelativeToolTip": "Views\\Site3.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:36:05.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Clients3.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients3.aspx",
+              "RelativeDocumentMoniker": "Views\\Clients3.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients3.aspx",
+              "RelativeToolTip": "Views\\Clients3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T23:34:31.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Brigads2.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads2.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Brigads2.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads2.aspx.cs",
+              "RelativeToolTip": "Views\\Brigads2.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:36:47.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Brigads3.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads3.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Brigads3.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads3.aspx.cs",
+              "RelativeToolTip": "Views\\Brigads3.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:37:03.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Clients2.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients2.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Clients2.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients2.aspx.cs",
+              "RelativeToolTip": "Views\\Clients2.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:37:19.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Clients3.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients3.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Clients3.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients3.aspx.cs",
+              "RelativeToolTip": "Views\\Clients3.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:37:24.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Brigads.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads.aspx",
+              "RelativeDocumentMoniker": "Views\\Brigads.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads.aspx",
+              "RelativeToolTip": "Views\\Brigads.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T23:04:40.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Clients2.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients2.aspx",
+              "RelativeDocumentMoniker": "Views\\Clients2.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients2.aspx",
+              "RelativeToolTip": "Views\\Clients2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T23:34:01.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Views\\Site1.Master.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site1.Master.cs",
+              "RelativeToolTip": "Views\\Site1.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:35:26.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Brigads3.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads3.aspx",
+              "RelativeDocumentMoniker": "Views\\Brigads3.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads3.aspx",
+              "RelativeToolTip": "Views\\Brigads3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T23:34:18.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Brigads2.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads2.aspx",
+              "RelativeDocumentMoniker": "Views\\Brigads2.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads2.aspx",
+              "RelativeToolTip": "Views\\Brigads2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T23:33:44.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Clients.aspx",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients.aspx",
+              "RelativeDocumentMoniker": "Views\\Clients.aspx",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients.aspx",
+              "RelativeToolTip": "Views\\Clients.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T23:20:05.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Site2.Master.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site2.Master.cs",
+              "RelativeDocumentMoniker": "Views\\Site2.Master.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site2.Master.cs",
+              "RelativeToolTip": "Views\\Site2.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:23:26.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Site2.Master.designer.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site2.Master.designer.cs",
+              "RelativeDocumentMoniker": "Views\\Site2.Master.designer.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Site2.Master.designer.cs",
+              "RelativeToolTip": "Views\\Site2.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:31:13.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Brigads.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Brigads.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Brigads.aspx.cs",
+              "RelativeToolTip": "Views\\Brigads.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:06:19.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Clients.aspx.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Clients.aspx.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\Clients.aspx.cs",
+              "RelativeToolTip": "Views\\Clients.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:15:34.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainDispetcher.aspx.designer.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainDispetcher.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Views\\MainDispetcher.aspx.designer.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\\u041B\u0435\u0440\u0430 \u0434\u0438\u043F\u043B\u043E\u043C\\ServiceDesk\\Views\\MainDispetcher.aspx.designer.cs",
+              "RelativeToolTip": "Views\\MainDispetcher.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL0CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:18:21.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

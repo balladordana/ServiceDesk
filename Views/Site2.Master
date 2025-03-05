@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="ServiceDesk.Views.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <style>
+        *{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        #left{
+            color:white;
+            background-color:teal;
+            height: 100vh;
+        }
+        label{
+            color: white;
+        }
+        .footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+    <link href="../Assets/Lib/css/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>   
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-2 d-flex align-items-center" id="left">
+                <div class="p-2 ">
+                    <div class="mb-3">
+                        <a href="MainDispetcher.aspx"><label>Главная</label></a>
+                    </div>
+                    <div class="mb-3">
+                        <a href="Brigads.aspx"><label>Бригады</label></a>
+                    </div>
+                    <div class="mb-3">
+                        <a href="Clients.aspx"><label>Клиенты</label></a>
+                    </div>
+                    <div class="footer">
+                        <div class="mb-3">
+                            <a href="Login.aspx"><label>Выйти</label></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-10">
+                <form id="form1" runat="server">
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </form>
+            </div>
+        </div>
+    </div>    
+</body>
+</html>
